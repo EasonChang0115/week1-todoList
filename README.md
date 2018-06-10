@@ -8,6 +8,9 @@
 # 安裝相關套件
 npm install
 
+# 開起json-server  記得全域安裝json-server 
+json-server db.json
+
 # 開發模式hot reload at localhost:8080
 npm run dev
 
